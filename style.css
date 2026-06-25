@@ -1,0 +1,50 @@
+body{
+    background-color: #46769B;
+    font-family: Arial, sans-serif;
+}
+
+.business-card{
+    background-color: #FFFFFF;
+    padding:20px;
+    margin:100px;
+    text-align: center;
+    font-size:16px;
+    margin-left:auto;
+    margin-right:auto;
+    width:300px;
+    border: 2px solid #FFC107;
+}
+h1{
+    font-size: 18px;
+    font-weight: bold;
+}
+p{
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.UIUX{
+    font-size: 14px;
+    color: #bbbbbb;
+}
+._nephi{
+  font-size: 11px; 
+  color: #bbbbbb;
+}
+.mail_tele{
+    font-size: 12px;
+}
+.image_nephi{
+    background-color: #E4E4E4;
+    border: 2px solid #D9D9D9;
+    padding: 15px;
+    padding-bottom: 0;
+    max-width:100%;
+}
+.boutton{
+    background-color: #FFC107;
+    border: 1.7px solid black;
+}
+.Connecter-vous{
+    font-size: 10px;
+    font-weight: bold;
+}
