@@ -51,8 +51,8 @@ button{
     border-radius: 5px 5px 5px 5px;
 }
 
-button :hover{
-    color: aliceblue;
+.button :hover{
+    background-color: #46769B;
 }
 
 .Portfolio{
