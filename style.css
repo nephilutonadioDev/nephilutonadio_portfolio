@@ -3,6 +3,9 @@ body{
     font-family: Arial, sans-serif;
 }
 
+a{
+    text-decoration: none;
+}
 .business-card{
     background-color: #FFFFFF;
     padding:20px;
@@ -40,9 +43,21 @@ p{
     padding-bottom: 0;
     max-width:100%;
 }
-.boutton{
+
+button{
+    width: 100px;
+    height: 30px;
     background-color: #FFC107;
-    border: 1.7px solid black;
+    border-radius: 5px 5px 5px 5px;
+}
+
+button :hover{
+    color: aliceblue;
+}
+
+.Portfolio{
+    font-weight: bold;
+    font-size: 15x;
 }
 .Connecter-vous{
     font-size: 10px;
